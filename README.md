@@ -1,6 +1,8 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz GIT patikası ödev
 
+![alt text](https://avatars.githubusercontent.com/u/30476529?s=280&v=4)
+
 ## Installation
 Öncelikle projeyi klonlayın.
 ```
